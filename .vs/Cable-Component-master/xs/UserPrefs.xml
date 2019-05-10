@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C1ED4FD0-8D16-BD04-E1A4-A69E388DFFCA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InverseToTransfer.cs">
+    <Files>
+      <File FileName="Assets/CompensatorTests.cs" Line="32" Column="1" />
+      <File FileName="Assets/InverseAcademy.cs" Line="12" Column="9" />
+      <File FileName="Assets/InverseGeometrical.cs" Line="19" Column="26" />
+      <File FileName="Assets/Controller.cs" Line="46" Column="112" />
+      <File FileName="Assets/ControllerConfigurable.cs" Line="43" Column="52" />
+      <File FileName="Assets/InverseToTransfer.cs" Line="25" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cable-Component-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CableComponent" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="InverseToTransfer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
