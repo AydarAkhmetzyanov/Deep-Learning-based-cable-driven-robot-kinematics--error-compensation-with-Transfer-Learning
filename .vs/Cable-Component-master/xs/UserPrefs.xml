@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{C1ED4FD0-8D16-BD04-E1A4-A69E388DFFCA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CompensatorTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InverseAcademy.cs">
     <Files>
-      <File FileName="Assets/CompensatorTests.cs" Line="32" Column="1" />
-      <File FileName="Assets/InverseAcademy.cs" Line="12" Column="1" />
+      <File FileName="Assets/CompensatorTests.cs" Line="42" Column="1" />
+      <File FileName="Assets/InverseAcademy.cs" Line="35" Column="9" />
       <File FileName="Assets/InverseGeometrical.cs" Line="19" Column="26" />
       <File FileName="Assets/Controller.cs" Line="46" Column="112" />
       <File FileName="Assets/ControllerConfigurable.cs" Line="43" Column="52" />
@@ -16,7 +16,7 @@
               <Node name="CableComponent" expanded="True">
                 <Node name="Scripts" expanded="True" />
               </Node>
-              <Node name="CompensatorTests.cs" selected="True" />
+              <Node name="InverseAcademy.cs" selected="True" />
             </Node>
           </Node>
         </State>
