@@ -6,6 +6,9 @@ using UnityEngine;
 
 public class InverseAcademy : MonoBehaviour
 {
+
+    public string FileName = "";
+
     // Start is called before the first frame update
     void Start()
     {
@@ -28,7 +31,7 @@ public class InverseAcademy : MonoBehaviour
     void datasetCollectionPipeline()
     {
 
-        string FileName = "kinematics.csv";
+
 
 
         if (!File.Exists(FileName))
@@ -39,11 +42,8 @@ public class InverseAcademy : MonoBehaviour
         }
 
 
-
-
         if (firstrun == false)
         {
-
 
             foreach (var simulation in simulations)
             {
